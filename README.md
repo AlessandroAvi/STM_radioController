@@ -15,5 +15,11 @@ This project is a radio controller system used for controlling the drone that I 
 | Battery                 | 18650                        | 2               | 2x2       | [here](https://it.aliexpress.com/item/1005002325103098.html?spm=a2g0s.9042311.0.0.49664c4dRVHLxL)
 | PCB for radio controller| DIY                          | 1               | -         | [no link]()
 
+Total cost up to now: 27.67 €
 
+# TO DO
 
+- Include NRF module in the code
+- Include joystick modules in the code
+- Include display module in the code
+- Creaet and buy a custom PCB
