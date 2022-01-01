@@ -19,7 +19,9 @@ Total cost up to now: 27.67 €
 
 # TO DO
 
-- Include NRF module in the code
-- Include joystick modules in the code
-- Include display module in the code
+- set up stm in cube mx
+- write code for the nfr
+- write code for the ADC and readings from joystick
+- write code for sending data over nfr
+- write code for the TFT display
 - Creaet and buy a custom PCB
